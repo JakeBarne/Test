@@ -147,7 +147,7 @@ curl.exe -X POST http://localhost:5000/api/auth/logout -H "Authorization: Bearer
 
 ---
 
-# Unit-тесты
+# Тесты
 
 ```bash
 dotnet test
