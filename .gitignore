@@ -482,3 +482,7 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+/CurrencyWorker/appsettings.Development.json
+/FinanceService/appsettings.Development.json
+/UserService/appsettings.Development.json
+/ApiGateway/appsettings.Development.json
